@@ -1,74 +1,28 @@
-<<<<<<< HEAD
-# crypto-base
-=======
-# Getting Started with Create React App
+# CryptoBase
+----------------
+This project was created using react, styled with tailwind css.
+Website URL : https://react-app-cryptobase.netlify.app/
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+----------------
+#Description
+=============
+This is a simple project to show information about cryptocurrencies. Even though most links are dummy, there are some useful ones which actually displays the crypto data. This project is powered by CoinGecko api.
 
-## Available Scripts
+![Screenshot (18)](https://user-images.githubusercontent.com/104153089/168626239-545ff270-d45c-47fd-a02b-17d4a5a1de7d.png)
 
-In the project directory, you can run:
+--------------
+Here on the homepage we can see six cryptocurrency with their respective information coming dynamically from the api.
 
-### `npm start`
+![Screenshot (19)](https://user-images.githubusercontent.com/104153089/168626473-f7ddb344-e0f0-470e-9705-192259ff3727.png)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+If you click on any of the cards it will take you to a page where data about that particular cryptocurrency is displayed.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+![Screenshot (20)](https://user-images.githubusercontent.com/104153089/168626856-cbeaf931-92b8-4808-8980-d0433f911282.png)
 
-### `npm test`
+In the homepage where you saw the cards. Just above them is a "See more coins" button which when clicked will take you to a page of list of cryptocurrencies(50 total)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![Screenshot (21)](https://user-images.githubusercontent.com/104153089/168627159-de8b77c8-ef75-429c-9034-2da857351827.png)
 
-### `npm run build`
+And in here again if you click on any card it will take you the page with the details for that particular cryptocurrency.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
->>>>>>> 9812ca3 (final commit)
+That's all!!
